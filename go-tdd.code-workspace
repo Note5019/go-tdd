@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "hello-world"
+		},
+		{
+			"path": "integers"
+		},
+		{
+			"path": "iteration"
+		},
+		{
+			"path": "arrays-and-slices"
+		},
+		{
+			"path": "structs-methods-and-interfaces"
+		},
+		{
+			"path": "pointers-and-errors"
+		},
+		{
+			"path": "maps"
+		},
+		{
+			"path": "di"
+		}
+	],
+	"settings": {}
+}
