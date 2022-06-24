@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../mocking"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../reflection"
+		},
+		{
+			"path": "../select"
+		}
+	],
+	"settings": {}
+}
